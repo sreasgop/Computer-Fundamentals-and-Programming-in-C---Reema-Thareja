@@ -16,7 +16,7 @@ int main() {
         i++;
     }
     
-    printf("%d", octal);
+    printf("Octal: %d", octal);
 
     return 0;
 }
