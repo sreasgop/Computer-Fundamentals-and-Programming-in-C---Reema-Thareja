@@ -18,7 +18,7 @@ int main() {
         i++;
     }
 
-    printf("%d", binary);
+    printf("Binary: %d", binary);
 
     return 0;
 }
