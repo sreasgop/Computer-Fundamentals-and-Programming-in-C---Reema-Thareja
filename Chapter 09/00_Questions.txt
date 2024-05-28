@@ -1,0 +1,75 @@
+# Throughout Chapter Exercise Questions:
+
+1. Find the output of the following problem, 
+#include<stdio.h>
+int main(){
+    int a, b; 
+    printf("\nEnter two four digits numbers: ");
+    scanf("%2d %4d", &a, &b);
+    printf("\n The two numbers are: %d and %d", a, b); 
+    return 0;
+}
+
+2. Write a program to demonstrate the use of printf statement to print values of variables of different data types. 
+
+3. Write a program to demonstrate the use of printf and scanf statement to read and print values of variables of different data types. 
+
+4. Write a program to calcualte the area of a triangle using Heron's Formula. 
+
+5. Write a program to calculate the distance between two points. 
+
+6. Write a program to perform addition, subtraction, division, integer division, multiplication, and modulo divison on two integer number. 
+
+7. Write a program to subtract two long integers. 
+
+8. Write a program to show the use of relational operations. 
+
+9. Write a program to illustrate the use of unary prefix increment and decrement operators. 
+
+10. Write a program to illustrate the use of unary postfix increment and decrement. 
+
+11. Write a program to find the largest of three numbers using ternary operator. 
+
+12. Write a program to show use of bitwise operator. 
+
+13. Write a program to demonstrate the use of assignment operators. 
+
+14. Write a program to calculate the area of a circle. 
+
+15. Write a program to print the ASCII value of a character. 
+
+16. Write a program to read a character in upper case and then print it in lower case. 
+
+17. Write a program to print the digit at ones place of a number. 
+
+18. Write a program to swap two numbers using a temporary variable. 
+
+19. Write a program to swap two numbers without using a temporary variable.
+
+20. Write a program to convert degrees Fahrenheit into degrees Celsius. 
+
+21. Write a program that displays the size of every data type. 
+
+22. Write a program to calcualte the total about of money in the piggybank, given the coins of Rs 10, Rs 5, Rs 2, and Rs 1. 
+
+23. Write a program to calculate the bill amount for an item given its quantity sold, value, discount and tax. 
+00_Chap10_Questions
+24. Write a program to convert a floating point number into the corresponding number into the corresponding integer. 
+
+25. Write a program to convert an integer into the corresponding floating point number. 
+
+26. Write a program to calculate a student's result based on two examinations, one sports event, and three activities counducted. The weightage of activities = 30%, sports = 20%, and examination = 50%.
+
+
+
+
+# Chapter-end Questions: Programming Exercises
+
+1. Write a program to read an integer. Then display the value of that integer in decimal, octal, and hexadecimal notation. 
+
+2. Write a program that prints a floating point value in exponential format with that following specification:
+a) Correct to two decimal places. 
+b) Correct to found decimal places. 
+c) Correct to eight decimal places. 
+
+3. 
